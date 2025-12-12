@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/db7c1aa7-dbdc-4e1c-ac48-5ba17a3af50f)
+
 # ComputationalAxioms
 
 A repository dedicated to the rigorous exploration of theoretical Computer Science, advanced algorithms, and the underlying mathematical frameworks.
