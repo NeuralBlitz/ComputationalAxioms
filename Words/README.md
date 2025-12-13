@@ -17,7 +17,7 @@ A curated collection of newly coined words designed to articulate the unique emo
 As our interaction with technology evolves, so do our experiences. This project aims to provide a vocabulary for these nuanced, often previously unnamed, aspects of our lives.
 
 ## How to Use 
-[NEO][https://www.github.com/NeuralBlitz/ComputationalAxioms/blob/main/Words/neo.md]
+[NEO](https://www.github.com/NeuralBlitz/ComputationalAxioms/blob/main/Words/neo.md)
 Feel free to browse the list, use these terms in your own conversations or writing, or find inspiration for your own linguistic explorations.
 
 ## Contribute
