@@ -105,3 +105,56 @@
 
 ***
 
+
+1.  **Kenograph** (KEN-o-graf)
+    *   **Etymology:** Greek *kenos* (empty) + *graphe* (writing, drawing).
+    *   **Definition:** An abandoned social media profile or digital account that remains online like an empty digital monument, no longer updated by its creator.
+    *   **Example:** "He stumbled upon his old friend's profile, a kenograph left untouched for over a decade, a snapshot of a life frozen in time."
+
+2.  **Chronoclasm** (KRON-o-klaz-um)
+    *   **Etymology:** Greek *chronos* (time) + *klasma* (fragment, piece broken off).
+    *   **Definition:** The specific feeling of loss or disruption that occurs when a hyperlink dies, breaking a chain of information and leaving a fragment of digital history inaccessible.
+    *   **Example:** "The researcher felt a pang of chronoclasm when she discovered the key citation in the old article now led to a 404 error, a dead end in the timeline of knowledge."
+
+3.  **Eidologenesis** (eye-doh-lo-JEN-uh-sis)
+    *   **Etymology:** Greek *eidolon* (image, phantom) + *genesis* (creation, origin).
+    *   **Definition:** The continuous, often unconscious, process of creating and curating an idealized digital version of oneself online, which may be significantly different from one's physical reality.
+    *   **Example:** "Through carefully selected photos and witty posts, her process of eidologenesis had crafted a public persona of constant success and happiness."
+
+4.  **Noochora** (noo-o-KOR-uh)
+    *   **Etymology:** Greek *noos* (mind) + *chora* (space, place).
+    *   **Definition:** The purely mental, placeless "space" one enters during a state of deep focus or flow, especially while working on a creative or intellectual task, where the physical surroundings seem to disappear.
+    *   **Example:** "With his headphones on and the code filling his screen, he entered the noochora, a state of pure thought where the hours passed unnoticed."
+
+5.  **Heuretechne** (hyur-eh-TEK-nay)
+    *   **Etymology:** Greek *heuriskein* (to find, discover) + *techne* (art, skill).
+    *   **Definition:** The particular skill and satisfaction of teaching oneself how to perform a complex physical task, like fixing an appliance or building furniture, entirely by watching online video tutorials.
+    *   **Example:** "Through sheer heuretechne, she repaired her washing machine by following a step-by-step video, feeling a deep sense of accomplishment."
+
+6.  **Phasmotactus** (faz-mo-TAK-tus)
+    *   **Etymology:** Greek *phasma* (phantom, ghost) + Latin *tactus* (touch).
+    *   **Definition:** The distinct, common hallucination of feeling a phone vibrate in one's pocket when no notification has actually been received.
+    *   **Example:** "He checked his phone for the tenth time, realizing the phantom buzz was just a moment of phasmotactus brought on by expecting an important message."
+
+7.  **Pantelopsis** (pan-tel-OP-sis)
+    *   **Etymology:** Greek *pan* (all) + *telos* (end) + *opsis* (view).
+    *   **Definition:** The specific form of digital fatigue and boredom that comes from the feeling of having "seen everything" on the internet—of scrolling through endless feeds only to find nothing new, interesting, or surprising.
+    *   **Example:** "After an hour of scrolling through every app, he was overcome with pantelopsis and simply stared at the wall, feeling as though he'd reached the end of all content."
+
+8.  **Cryptophilia** (krip-toe-FIL-ee-uh)
+    *   **Etymology:** Greek *kryptos* (hidden, secret) + *philia* (love).
+    *   **Definition:** The strange, powerful sense of camaraderie and affection one can develop for anonymous or pseudonymous people in a shared online community, based purely on their words and ideas.
+    *   **Example:** "Despite never knowing their real names, her cryptophilia for her guildmates in the online game was as strong as any of her real-world friendships."
+
+9.  **Archeionomy** (ar-kay-o-NOM-ee)
+    *   **Etymology:** Greek *archeion* (archive, public records) + *nomos* (law, order).
+    *   **Definition:** The art and science of organizing and maintaining one's personal digital archives, such as files, photos, and emails, into a coherent and easily navigable system.
+    *   **Example:** "Her system of nested folders, consistent naming conventions, and automated backups was a masterclass in archeionomy."
+
+10. **Polyscopsis** (po-lee-SKOP-sis)
+    *   **Etymology:** Greek *poly* (many) + *skopos* (seeing, watching).
+    *   **Definition:** The practice of gaining a more complete and nuanced understanding of a topic by actively seeking out and comparing a wide variety of sources from different viewpoints, especially online.
+    *   **Example:** "Before forming an opinion on the complex issue, she engaged in polyscopsis, reading articles from five different news outlets with varying perspectives."
+
+***
+
