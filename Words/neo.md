@@ -52,6 +52,7 @@
 
 ***
 
+
 1.  **Graphopermanence** (graf-oh-PER-muh-nence)
     *   **Etymology:** Greek *graphe* (writing) + Latin *permanens* (remaining, permanent).
     *   **Definition:** The subtle, persistent background anxiety that comes from knowing that one's past words, photos, and digital actions are permanently archived, searchable, and could resurface at any moment.
@@ -81,4 +82,26 @@
     *   **Etymology:** Greek *ephemeros* (lasting for a day, fleeting) + Latin *scientia* (knowledge).
     *   **Definition:** Knowledge or information that exists almost exclusively in a fragile, digital form (e.g., on a single website, a niche wiki, or a social media thread) and is at constant risk of being lost forever due to link rot or deletion.
     *   **Example:** "The entire history of that early internet fan project was a form of ephemeriscience, stored on a single, now-defunct forum that no one archived."
+
+7.  **Algomachia** (al-go-MACK-ee-uh)
+    *   **Etymology:** Greek *algos* (pain, but also a pun on "algorithm") + *mache* (battle, fight).
+    *   **Definition:** The futile, frustrating, and often comical act of arguing with an automated system, chatbot, or algorithm that is incapable of understanding nuance, deviating from its script, or resolving a unique problem.
+    *   **Example:** "He spent twenty minutes locked in a state of algomachia, trying to explain his unique billing issue to a customer service bot that only offered three irrelevant solutions."
+
+8.  **Mimetikosmos** (mi-met-i-KOS-mos)
+    *   **Etymology:** Greek *mimetikos* (imitative) + *kosmos* (world, universe).
+    *   **Definition:** A state of cognitive dissonance or confusion where the boundaries between the physical world and a highly realistic, imitative digital world (like a VR simulation or metaverse) become temporarily blurred.
+    *   **Example:** "After a long session in the hyper-realistic virtual reality game, he experienced a moment of mimetikosmos, momentarily forgetting which set of physical laws applied to his living room."
+
+9.  **Cybersophia** (s-eye-ber-SO-fee-uh)
+    *   **Etymology:** English *cyber* (relating to computers) + Greek *sophia* (wisdom).
+    *   **Definition:** The specific form of wisdom and critical thinking skill required to navigate the digital world, discern truth from misinformation, understand the underlying systems that shape online experience, and maintain mental well-being.
+    *   **Example:** "Her ability to trace a fake news story back to its source, identify the motive, and calmly disengage was a testament to her well-developed cybersophia."
+
+10. **Atechnia** (ay-TEK-nee-uh)
+    *   **Etymology:** Greek *a-* (without) + *techne* (art, skill, technology).
+    *   **Definition:** The conscious, deliberate, and temporary act of disconnecting from all digital technology to restore one's mental clarity, focus, and reconnect with the physical, non-mediated world.
+    *   **Example:** "He declared a weekend of atechnia, putting his phone in a drawer, turning off his computer, and going for a long hike in the woods to clear his head."
+
+***
 
