@@ -18,6 +18,7 @@ As our interaction with technology evolves, so do our experiences. This project 
 
 ## How to Use 
 [NEO](https://www.github.com/NeuralBlitz/ComputationalAxioms/blob/main/Words/neo.md)
+
 Feel free to browse the list, use these terms in your own conversations or writing, or find inspiration for your own linguistic explorations.
 
 ## Contribute
