@@ -1,4 +1,4 @@
-# The Lexicon of the Digital Age 🌐
+#The Lexicon of the Digital Age 🌐
 
 A curated collection of newly coined words designed to articulate the unique emotions, experiences, and phenomena of modern life in our increasingly digital world.
 
