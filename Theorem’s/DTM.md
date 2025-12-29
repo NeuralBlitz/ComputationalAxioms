@@ -20,7 +20,8 @@ $$ \sigma_i \sigma_j = \sigma_j \sigma_i \quad \text{for } |i-j| > 1 $$
 
 **The Topological Invariant (The Identifier):**
 The information density is calculated via the **Jones Polynomial** $V_L(t)$ for the trace closure of the braid:
-$$ t^{-1} V_{L_+}(t) - t V_{L_-}(t) $$ = $$ (t^{1/2} - t^{-1/2}) V_{L_0}(t) $$
+
+$$ t^{-1} V_{L_+}(t) - t V_{L_-}(t) = (t^{1/2} - t^{-1/2}) V_{L_0}(t) $$
 
 ---
 
@@ -304,9 +305,12 @@ The system ensures the ASCII art represents a **Stable Knot** only if the **Reid
 
 **Reidemeister II (Separation Axiom):**
 The config ensures that crossing a strand over and immediately back cancels out:
+
 $$ \sigma_i \sigma_i^{-1} = 1 \implies \text{Data Integrity Verified} $$
 
 **The Energy Functional of the Knot:**
 To optimize the visual density:
+
 $$ E(K) = \iint \frac{1}{|r(u) - r(v)|^2} |r'(u)| |r'(v)| du dv $$
+
 This functional ensures the "strands" in the ASCII display do not visually "collide" (readability).
