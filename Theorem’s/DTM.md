@@ -20,7 +20,7 @@ $$ \sigma_i \sigma_j = \sigma_j \sigma_i \quad \text{for } |i-j| > 1 $$
 
 **The Topological Invariant (The Identifier):**
 The information density is calculated via the **Jones Polynomial** $V_L(t)$ for the trace closure of the braid:
-$$ t^{-1} V_{L_+}(t) - t V_{L_-}(t) = (t^{1/2} - t^{-1/2}) V_{L_0}(t) $$
+$$ t^{-1} V_{L_+}(t) - t V_{L_-}(t) $$ = $$ (t^{1/2} - t^{-1/2}) V_{L_0}(t) $$
 
 ---
 
