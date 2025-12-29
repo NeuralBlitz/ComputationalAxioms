@@ -18,7 +18,9 @@ Where:
 *   $\Delta$: The Laplacian operator (Measuring local connectivity pressure).
 *   $f, g$: Non-linear interaction kinetics (The algorithmic rules of data consumption).
 *   **The Constraint:** The system is stable only if the Turing Pattern matches the **Holographic Bound**:
-    $$ S(\Omega) \leq \frac{A(\partial \Omega)}{4 l_P^2} $$
+
+     $$ S(\Omega) \leq \frac{A(\partial \Omega)}{4 l_P^2} $$
+
     (Total informational entropy cannot exceed the surface area of the boundary network).
 
 ---
