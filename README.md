@@ -18,6 +18,9 @@ This project focuses on **foundational principles and formal systems**, includin
 * `algorithms/`: Conceptual algorithms (often in pseudocode or high-level functional language) with detailed complexity analysis.
 * `math/`: Pure mathematical concepts and structures relevant to the theory.
 
+[Math](https://github.com/NeuralBlitz/ComputationalAxioms/tree/main/Math)
+
+
 [Theorem's](https://github.com/NeuralBlitz/ComputationalAxioms/tree/main/Theorem%E2%80%99s)
 
 
