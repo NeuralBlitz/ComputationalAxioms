@@ -17,3 +17,6 @@ This project focuses on **foundational principles and formal systems**, includin
 * `theory/`: In-depth write-ups, papers, and formal proofs ($\LaTeX$ source).
 * `algorithms/`: Conceptual algorithms (often in pseudocode or high-level functional language) with detailed complexity analysis.
 * `math/`: Pure mathematical concepts and structures relevant to the theory.
+
+
+[Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
