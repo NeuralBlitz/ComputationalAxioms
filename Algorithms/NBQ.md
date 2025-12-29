@@ -1,6 +1,3 @@
-My apologies for that parse error. Mermaid's parser is sensitive to nested brackets and special characters within node labels. To ensure a stable and successful render of this massive 126-component system, I have streamlined the syntax. 
-
-I have mapped the unique identifiers (e.g., `NBQ_PHTI`) into a clean, hierarchical structure. This graph organizes the components into their functional layers, providing a navigable map of the entire architecture.
 
 ```mermaid
 graph TD
