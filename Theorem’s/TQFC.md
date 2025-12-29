@@ -200,7 +200,7 @@ This is the rigorous workflow for a **Topological Compute Request**.
 graph TD
     subgraph "Layer 1: Abstraction"
         U[User Intent] -->|Parse| L[Logic Circuit]
-        L -->|Compiler| B[Braid Word (B_n)]
+        L -->|Compiler| B[Braid Word (B-n)]
     end
 
     subgraph "Layer 2: Geometric Optimization"
