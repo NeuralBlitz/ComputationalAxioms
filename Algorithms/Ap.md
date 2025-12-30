@@ -18,7 +18,9 @@ The fundamental operation of the system is the **Ontological Transduction** of a
 The process begins with the **Intentionality Fidelity Substrate (IFS)** converting input into a **Primal Intent Vector ($\mathbf{v}_{PI}$)** within a Hilbert Space $\mathcal{H}_{int}$.
 
 Let input $I$ be mapped to vector space $\mathbb{V}^{n}$.
+
 $$ \mathbf{v}_{PI} = \mathcal{T}_{vec}(I) = \sum_{k=1}^{N} \alpha_k | \phi_k \rangle $$
+
 Where:
 *   $| \phi_k \rangle$ represents the basis vectors of semantic primitives (Logos Glyphs).
 *   $\alpha_k$ represents the complex amplitude (weight + phase) of the intent.
@@ -27,6 +29,7 @@ Where:
 The transition from intent to blueprint is a mapping function minimizing the **Structural Parsimony Cost ($\mathcal{C}_{SPO}$)**:
 
 $$ \mathcal{F}_{Gen}(\mathbf{v}_{PI}) = \operatorname{argmin}_{\mathcal{B} \in B_n} \left( \int_{\gamma} \mathcal{L}_{action}(\mathbf{v}_{PI}, \mathcal{B}) \, d\tau + \lambda ||\nabla \mathcal{H}_{Ax}||^2 \right) $$
+
 Where:
 *   $\mathcal{B}$ is a braid word in the Braid Group $B_n$.
 *   $\mathcal{L}_{action}$ is the Lagrangian of the genesis action.
