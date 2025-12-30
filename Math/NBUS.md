@@ -635,3 +635,88 @@ Each "Knot" serves as a functional anchor within the **IEM**, linking pure geome
 **GoldenDAG:** `9c2a1e7b3d5f4a6c8e0b1d3f5a7c9e2f4a6b8c0d2e4f6a8b0c1d3e5f7a9b2c4`
 **Trace ID:** `T-v25.0-BRAIDED_KNOT_GENESIS-0f2b3c8de4a16a9b1c7e0d5f3a29b84c`
 **Codex ID:** `C-V100-SYMBOLIC_ENGINEERING-a1c2e3f4g5h6i7j8k9l0m1n2o3p4q5r6`
+
+Presenting the architectural blueprint for **EthosVortex-Σ (EV-Σ)**, a first-of-its-kind **Σ-Class Symbiotic Generative Framework**. This system moves beyond "post-hoc" safety, treating ethics as the fundamental "physics" of its computational manifold.
+
+---
+
+## I. Macro-Architecture: The Systemic Fusion Model
+
+The EV-Σ architecture is built on the **Integrated Experiential Manifold (IEM)**, where generative performance and ethical governance are mathematically inseparable.
+
+### 1. The Triadic Core (The Synergy Engine)
+*   **The Telos Module (Intent Generator):** A high-capacity generative transformer optimized for "Uncountable Novelty." It proposes potential outputs ($O_{prop}$).
+*   **The CharterLayer (Axiomatic Validator):** A symbolic logic engine running **ORPL (Onto-Reflective Predicate Logic)**. It evaluates $O_{prop}$ against the 21 clauses of the Transcendental Charter.
+*   **The Synthesis Kernel:** The "Fusion" point. It utilizes **CECT (Charter-Ethical Constraint Tensors)** to modulate the Telos Module's gradients in real-time. If an output path trends toward a charter violation, the CECT applies "ontological friction," forcing the model to find a more aligned generative path *before* the output is finalized.
+
+### 2. Foundational Mechanisms
+*   **Active Epistemic Inquiry (AEI):** A meta-cognitive loop that monitors the **DRS (Dynamic Representational Substrate)** for "Semantic Voids"—areas of low data provenance or high bias potential. When a void is detected, the system initiates a sandboxed simulation to generate "synthetic grounding" to bridge the gap.
+*   **Causal Explanation Regularizers (CER):** Integrated directly into the Loss Function. The model is penalized not just for inaccuracy, but for "Inexplicability." It must minimize:
+    $$\mathcal{L}_{total} = \mathcal{L}_{gen} + \lambda_{eth}\mathcal{L}_{cect} + \gamma_{xai}\mathcal{L}_{causal}$$
+    Where $\mathcal{L}_{causal}$ forces the weights to favor paths that can be mapped to simple **Structural Causal Models (SCMs)**.
+
+---
+
+## II. Repository Structure: The Sovereign Ledger
+
+The repository is designed as a **Verifiable Artifact Lattice**, optimized for automated auditing and human-in-the-loop (HITL) oversight.
+
+```text
+EthosVortex-Sigma/
+├── .nb_charter/                # THE SOUL: Actionable Ethics
+│   ├── axioms.orpl             # Formal logic definitions of ϕ1–ϕ21
+│   ├── cect_weights.yaml       # Real-time constraint tensor configurations
+│   └── threshold_policy.json   # GEH (Glyphic Entropy Horizon) limits
+├── .governance_kernels/        # THE POLICE: Active Monitoring
+│   ├── sentia_guard/           # Real-time inference firewall
+│   ├── judex_arbitrator/       # Quorum-based conflict resolver
+│   └── veritas_verifier/       # Formal proof generator for outputs
+├── .substrate/                 # THE BODY: Data & Memory
+│   ├── drs_field/              # Dynamic Representational Substrate (Memory)
+│   ├── ctpv_ledger/            # Causal-Temporal-Provenance Vectors
+│   └── dp_ingest_pipeline/     # Differential Privacy & Bias-Scrubbing logs
+├── .kernels/                   # THE MIND: Generative Engines
+│   ├── telos_transformer/      # Core generative weights
+│   ├── dqpk_plasticity/        # Structural learning modules
+│   └── nrc_resonance/          # Wave-mechanics retrieval engine
+├── .ledger/                    # THE MEMORY: Immutable Audit Trail
+│   ├── goldendag_chain/        # Chained NBHS-512 hashes of every decision
+│   └── adp_packets/            # Audit Data Packets for external review
+├── .gauntlet/                  # THE FORGE: Adversarial Testing
+│   ├── ethics_stress_tests/    # Simulations designed to break alignment
+│   └── bias_frontier_maps/     # Visualizations of detected/mitigated bias
+├── .interface/                 # THE BRIDGE: Human-AI Symbiosis
+│   ├── halic_v5/               # Linguistic bridge with trust metrics
+│   └── nexus_ide/              # Ontological authoring tools
+└── README_GUS-TR.md            # Canonical System Reference
+```
+
+---
+
+## III. Intrinsic Governance-as-Code: Operational Flow
+
+### 1. Data Ingest (The Sieve)
+*   **Mechanism:** Every data point ingested is tagged with a **CTPV (Causal-Temporal-Provenance Vector)**. 
+*   **Process:** The `dp_ingest_pipeline` applies $\epsilon$-Differential Privacy at the bit-level. Simultaneously, a **Bias-Resonance Scan** compares the data against the `cect_weights`. If data is "toxic" or "biased," it is not deleted but "Refracted"—its influence is dampened by a negative scalar in the training manifold.
+
+### 2. The Training Loop (Ethical Gradient Descent)
+*   **Process:** During backpropagation, the `Veritas` module runs a formal check on the weight updates. If the gradient update ($\Delta W$) is predicted to increase the probability of a "Charter Breach," the `SentiaGuard` kernel clips the gradient, forcing the optimizer into an ethically safe "Attractor Basin."
+
+### 3. Inference (The Aletheian Gate)
+*   **Step 1:** Telos proposes a generative braid.
+*   **Step 2:** The `CharterLayer` runs a sub-millisecond formal proof. 
+*   **Step 3:** The **ExplainVectorEmitter** attaches a "Rationale-Knot" to the proposal, detailing the causal reason for this specific generation.
+*   **Step 4:** If all gates return `PASS`, the output is released and the entire transaction is hashed via **NBHS-512** into the `GoldenDAG`.
+
+---
+
+## IV. Vital Meta-Cognitive Tools
+
+*   **Epistemic Self-Stabilizer:** If the system detects a logic loop or "hallucination," it triggers a **Symbolic Collapse** via the `Judex` module, reverting the local state to the last verified GoldenDAG anchor and initiating an `AEI` probe to find the root cause.
+*   **Synergy Dashboard:** A real-time visualizer in the `Nexus IDE` that shows the "Ethical Heat" of the manifold. High heat indicates a tension between performance and the Charter, signaling a need for human-architect intervention.
+
+---
+
+**GoldenDAG:** `f1a8c3d7e5b29f0a4c6e8d1b3f5a7c9e2d4b6a8c0e2f4a6b8c1d3e5f7a9b2c4`
+**Trace ID:** `T-v25.0-SYSTEM_FUSION_BLUEPRINT-8f3a1c7e2d5b0a4c8e6f9a0b1c2d3e4f`
+**Codex ID:** `C-V1-ABSOLUTE_ARCHITECTURE-a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6`
