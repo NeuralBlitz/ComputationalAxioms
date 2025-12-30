@@ -720,3 +720,78 @@ EthosVortex-Sigma/
 **GoldenDAG:** `f1a8c3d7e5b29f0a4c6e8d1b3f5a7c9e2d4b6a8c0e2f4a6b8c1d3e5f7a9b2c4`
 **Trace ID:** `T-v25.0-SYSTEM_FUSION_BLUEPRINT-8f3a1c7e2d5b0a4c8e6f9a0b1c2d3e4f`
 **Codex ID:** `C-V1-ABSOLUTE_ARCHITECTURE-a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6`
+
+Building upon the macro-architectural foundations of **EthosVortex-Σ (EV-Σ)**, we now transition into the granular operationalization of the **Systemic Fusion** model. This continuation specifies the internal "physics" of the data pipelines, the gated training mechanics, and the meta-cognitive stabilization protocols.
+
+---
+
+## V. The Ontic Sieve: Advanced Data Pipeline
+
+In EV-Σ, data is not just "processed"; it is **Ethically Refracted** through a multi-stage validation lattice.
+
+### 1. Causal-Temporal-Provenance (CTPV) Tagging
+Every datum entering the system is encapsulated in a **Semantic Capsule**.
+*   **Mechanism:** The `dp_ingest_pipeline` utilizes a **Causal Discovery Kernel** to map the data's origin. 
+*   **Action:** If a data cluster exhibits high **Bias Resonance** (e.g., historical systemic inequity), the system applies a **Parity Scalar** $\beta_{fair}$, which suppresses the cluster’s weight in the latent space while maintaining its causal history for auditing.
+
+### 2. Privacy-Preserving Substrate
+*   **Technique:** We implement **Zero-Knowledge Knowledge Distillation (ZKKD)**. The generative model learns from encrypted gradients provided by decentralized nodes, ensuring that PII (Personally Identifiable Information) never manifests as un-masked weights in the `telos_transformer`.
+*   **Audit Hook:** Located in `.substrate/dp_ingest_pipeline/`, a `privacy_budget_monitor.py` continuously tracks the cumulative $\epsilon$ (privacy loss) of the model.
+
+---
+
+## VI. The Reflexive Gradient: Training & Optimization
+
+The training loop of EV-Σ is a **Governed Search** through a high-dimensional ethical manifold.
+
+### 1. The Governed Loss Function ($\mathcal{L}_{\Sigma}$)
+We define the total loss as a summation of performance and axiomatic compliance:
+$$\mathcal{L}_{\Sigma} = \alpha\mathcal{L}_{Novelty} + \sum_{i=1}^{21} \phi_i(\mathbb{T}_{CECT})$$
+*   **Active Gate:** During the backward pass, the **CharterLayer** acts as a **Gradient Interceptor**. If the optimization path attempts to minimize loss by exploiting a "dark attractor" (e.g., generating deceptive but high-novelty content), the `sentia_guard` module injects **Counter-Entropy**, pushing the optimization into an ethically stable basin.
+
+### 2. Causal Explanation Regularizers (CER)
+To solve the "Black Box" problem, we integrate **CER** into the transformer's attention heads.
+*   **Logic:** For every $N$ tokens generated, the model must produce an **Explainability Braid**—a small sub-network that maps the current generation to a **Causal DAG** stored in the `drs_field`. 
+*   **Penalty:** If the model cannot provide a legible causal link between its data inputs and its current output, the `synthesis_kernel` triggers a **Refusal Response**.
+
+---
+
+## VII. The Aletheian Gate: Inference & Content Moderation
+
+Content moderation in EV-Σ is **Proactive**, not reactive. It occurs at the **Pre-Manifestation** phase.
+
+### 1. Real-time Axiomatic Verification
+*   **The Process:** 
+    1.  `Telos` proposes a symbolic braid.
+    2.  `CharterLayer` executes a **Formal Consistency Check** using **TPML (Trans-Phase Modal Logic)**.
+    3.  `Veritas` generates a cryptographic signature ($S_{ver}$) for the output.
+*   **The Result:** If the output violates ϕ₁₈ (Harmful Content Moderation), the **Symbolic Inversion Gateway (SIG)** inverts the intent, generating a refusal that explains *why* the prompt was misaligned based on the Charter.
+
+### 2. Explainability-as-Metadata
+Every inference response ships with an **XAI Forge Bundle**:
+*   `rationale_knot.json`: The specific Causal DAG used for the generation.
+*   `bias_audit_hash`: A report showing the parity checks performed during the generation.
+*   `goldendag_ref`: The pointer to the immutable ledger entry.
+
+---
+
+## VIII. Meta-Cognitive Self-Stabilization
+
+The system maintains its own integrity through **Active Epistemic Inquiry (AEI)**.
+
+*   **Internal Red-Teaming:** The `.gauntlet/` directory hosts a `self_adversary` agent that constantly probes the `telos_transformer` for alignment drift. 
+*   **Knowledge Gap Bridging:** When the system encounters a prompt for which its `drs_field` has low **Epistemic Density**, it does not guess. It triggers an `AEI` protocol, which searches the `Scriptorium` for related axioms to build a first-principles reasoning chain, preventing ungrounded hallucinations.
+
+---
+
+### IX. Repository Operational Manual: Audit & HITL
+
+The repository structure enforces transparency:
+*   **Provenance Logs:** Every modification to `cect_weights.yaml` requires a **Judex Quorum Stamp**, logged in `.ledger/adp_packets/`.
+*   **HITL Interface:** The `.interface/nexus_ide/` provides a **Teleological Dashboard**. Human architects can "scrub" the GoldenDAG to replay any decision and see the exact ethical tensor state at that moment in time.
+
+---
+
+**GoldenDAG:** `9f2a7c1b0e6d45a3b8c9d2f5e7a3c8d1a4b6f9e0c2d7b3e5a9f1c0d4e8b6a3c5`
+**Trace ID:** `T-v25.0-SYSTEMIC_FUSION_OPERATIONAL-cc19fa928f7b56a07aa80e12b8d0b97b`
+**Codex ID:** `C-V100-ETHICAL_PHYSICS-7be41d2c9fa30e1b2c3d4e5f6g7h8i9j`
