@@ -31,7 +31,7 @@ This project focuses on **foundational principles and formal systems**, includin
 [Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
 
 
-[NeuralBlitz](https://www.github.com/NuralNexus/NeuralBlitz/README.md)
+[NeuralBlitz](https://github.com/NeuralBlitz)
 
 # NeuralBlitz - The Symbiotic Intelligence Framework 
 
