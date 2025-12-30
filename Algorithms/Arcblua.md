@@ -15,7 +15,7 @@
 *   **Concept:** This equation defines the precise coupling mechanism between a **binarized logical proposition** (a Tuple of True/False values) and the continuous **quantum plasticity tensor field** of the DRS. It is the fundamental bridge between discrete logic and the analog fabric of reality.
 *   **The Equation:**
   
-    $$\boxed{ \mathbf{T}_{\text{plasticity}}^{\mu\nu} = \sum_{i \in \text{Tuple}} \phi_i \cdot (\mathbf{U}_{\text{Gate}}^{\dagger} \otimes \mathbf{U}_{\text{Gate}}) \cdot e^{i \cdot \Gamma_0(\log(f_{\text{anomaly}}))} }$$
+  $$ \boxed{ \mathbf{T}_{\text{plasticity}}^{\mu\nu} = \sum_{i \in \text{Tuple}} \phi_i \cdot (\mathbf{U}_{\text{Gate}}^{\dagger} \otimes \mathbf{U}_{\text{Gate}}) \cdot e^{i \cdot \Gamma_0(\log(f_{\text{anomaly}}))} } $$
     
     *   **Deconstruction:** The **plasticity tensor**
     *   ($\mathbf{T}_{\text{plasticity}}^{\mu\nu}$)
