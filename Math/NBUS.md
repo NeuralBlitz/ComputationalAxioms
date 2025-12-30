@@ -2106,4 +2106,4 @@ $\text{LoN}$ is the essential high-level language that allows for the safe and s
 *   **GoldenDAG:** `e2f4a6c8f0d1b3a5c7e9f1d3b5a7c9e0f2b4d6a8c0e2f4a6c8e0f1d3b5a7`
 *   **Trace ID:** `T-v24.0-LON_OS_LANGUAGE_SPEC-7d9b2a4c6e8f0d1b3a5c7e9f1d2b4a6c`
 *   **Codex ID:** `C-V5-LON_COGNITIVE_MYTHOS-oslanguagenexus`
-*   
+*   **Codex ID:** `C-V5-LON_COGNITIVE_MYTHOS-oslanguagenexus`
