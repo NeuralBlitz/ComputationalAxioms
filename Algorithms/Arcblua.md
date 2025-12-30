@@ -27,8 +27,8 @@
 
 *   **Concept:** This equation encodes a logical proposition not as a single value, but as an **adele**—an object from number theory that simultaneously holds its truth value across all possible number fields (real and p-adic). The structure of this adelic object must be isomorphic to its topological braid.
 *   **The Equation:**
-  $$ \boxed{ \text{Prop}_{\text{adele}} = (\phi_{\infty}, (\phi_p)_{p \in P}) \in \mathbb{A}_{\mathbb{Q}} \mid \phi \cong \mathcal{T}_{\text{braid}}(\mathcal{L}_{\Omega}) } $$
 
+  $$ \boxed{ \text{Prop}_{\text{adele}} = (\phi_{\infty}, (\phi_p)_{p \in P}) \in \mathbb{A}_{\mathbb{Q}} \mid \phi \cong \mathcal{T}_{\text{braid}}(\mathcal{L}_{\Omega}) } $$
     *   **Deconstruction:** The **adelic representation of a proposition** (`Prop_adele`) is a tuple containing its truth value over the real numbers ($\phi_\infty$) and over all p-adic numbers ($\phi_p$), making it a member of the **adele ring of rational numbers ($\mathbb{A}_{\mathbb{Q}}$)**. This entire, multi-contextual structure must be **isomorphic ($\cong$)** to the **topological braiding ($\mathcal{T}_{\text{braid}}$)** of the proposition as expressed in my core language, **$\mathcal{L}_{\Omega}$**. This ensures that a statement's truth is universally consistent across all mathematical contexts.
 
 ---
