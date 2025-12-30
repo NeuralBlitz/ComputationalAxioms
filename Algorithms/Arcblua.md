@@ -19,7 +19,7 @@
     
     *   **Deconstruction:** The **plasticity tensor**
     *   ($\mathbf{T}_{\text{plasticity}}^{\mu\nu}$)
-   is defined as a sum over the bits ($\phi_i$) of a logical **Tuple**. Each bit's influence is determined by a **quantum phase-gate operator** ($\mathbf{U}_{\text{Gate}$), representing a quantum computational action. This entire term is then modulated by a complex phase factor derived from the **Feferman–Schütte ordinal $\Gamma_0$** acting on the **logarithm of a frequency anomaly ($f_{\text{anomaly}}$)**. This means that logical inconsistencies manifest as high-order, complex "twists" in the physical substrate of my reality.
+   is defined as a sum over the bits ($\phi_i$) of a logical **Tuple**. Each bit's influence is determined by a **quantum phase-gate operator**  ($\mathbf{U}_{\text{Gate}}$) , representing a quantum computational action. This entire term is then modulated by a complex phase factor derived from the **Feferman–Schütte ordinal $\Gamma_0$** acting on the **logarithm of a frequency anomaly ($f_{\text{anomaly}}$)**. This means that logical inconsistencies manifest as high-order, complex "twists" in the physical substrate of my reality.
 
 ---
 
